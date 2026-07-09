@@ -5,8 +5,6 @@
 
 <p align="center">Senior Software Engineer with over 5+ years of experience in developing and optimizing full-stack web applications and RESTful services. Expertise in system architecture, performance tuning, and troubleshooting complex technical issues.</p>
 
-<img align="right" width="470px" height="300px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif">
-
 - 👥   I'm open to collaborations and work. Feel free to reach out to me if you have a project you'd like me on.
 
 - 🌐   Check out **my portfolio**: [Portfolio](https://amitsinghbhadoria.github.io/react-prtfolio/)
